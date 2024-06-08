@@ -1,6 +1,5 @@
 How to hide canvas fingerprinting
-Tien Nguyen
-6 min read
+
 
 Cookies and IP addresses are probably common methods of tracking you on the Internet. But…  
 
